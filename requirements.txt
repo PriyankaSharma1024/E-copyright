@@ -4,3 +4,4 @@ langchain
 sentence_transformers
 pinecone-client
 openai
+ChatOpenAI
