@@ -1,5 +1,3 @@
 openai
-youtube-dl
-chroma-js
 langchain
 streamlit
