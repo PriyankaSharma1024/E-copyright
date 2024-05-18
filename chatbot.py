@@ -1,6 +1,6 @@
 import streamlit as st
 from datetime import datetime, timedelta
-from langchain.llms import OpenAI
+from langchain_openai import ChatOpenAI
 from langchain.chains import ConversationChain
 from langchain.chains.conversation.memory import ConversationBufferWindowMemory
 from langchain.prompts import (
